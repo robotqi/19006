@@ -1,0 +1,13 @@
+A19006 by Chelsea Dorich
+The number of stations in the file is: 176
+
+Station Weather for SAN 2106 2206+23 9900+17 0908+09 9900-06 1814-17 192033 181842 160852
+At 3,000 feet:	 Dir= 210 Speed= 06 Temp= N/A
+At 6,000 feet:	 Dir= 220 Speed= 06 Temp= +2
+At 9,000 feet:	 Dir= Calm Speed= Calm Temp= +1
+At 12,000 feet:	 Dir= 090 Speed= 08 Temp= +0
+At 18,000 feet:	 Dir= Calm Speed= Calm Temp= -0
+At 24,000 feet:	 Dir= 180 Speed= 14 Temp= -1
+At 30,000 feet:	 Dir= 190 Speed= 20 Temp= 33
+At 34,000 feet:	 Dir= 180 Speed= 18 Temp= 42
+At 36,000 feet:	 Dir= 160 Speed= 08 Temp= 52
